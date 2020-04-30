@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/go-xmlfmt/xmlfmt"
+	"github.com/defektive/go-xmlfmt"
 	"github.com/mkideal/cli"
 	//clix "github.com/mkideal/cli/ext"
 )
